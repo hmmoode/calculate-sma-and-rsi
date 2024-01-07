@@ -12,7 +12,7 @@ This Python project uses "orcl.csv," containing financial instrument data, to de
 
 
 ## Installation
-You can just upload the code from this website and use it for free.
+You can just install the code from this website and use it for free.
 
 ## Benefit
 This project offers a straightforward approach to compute basic trading indicators in Python, facilitating analysis of historical data to derive insights for potential trading strategies.
