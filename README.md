@@ -1,5 +1,5 @@
 ## Student Name: Ahmed-Sulaiman
-## Student NO:2358412 
+## Student NO: 2358412 
 
 ## Project Title
 This Python project uses "orcl.csv," containing financial instrument data, to develop a basic trading strategy. It computes Simple Moving Averages (5-day window) and Relative Strength Index (RSI, 14-day window) without Pandas, writing results to "orcl-sma.csv" and "orcl-rsi.csv."
