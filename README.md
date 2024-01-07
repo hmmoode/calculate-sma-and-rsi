@@ -1,23 +1,38 @@
+## Student Name: Ahmed-Sulaiman
+## Student NO:2358412 
+
 ## Project Title
-A brief description of your project. Include its purpose, main features, and perhaps a key benefit it provides.
+This Python project uses "orcl.csv," containing financial instrument data, to develop a basic trading strategy. It computes Simple Moving Averages (5-day window) and Relative Strength Index (RSI, 14-day window) without Pandas, writing results to "orcl-sma.csv" and "orcl-rsi.csv."
 
 ## Table of Contents
 1-Installation
-2-Usage
+2-Benefit
 3-Features
-4-Contributing
-5-License
+4-License
+
+
+## Installation
+You can just upload the code from this website and use it for free.
+
+## Benefit
+This project offers a straightforward approach to compute basic trading indicators in Python, facilitating analysis of historical data to derive insights for potential trading strategies.
 
 ## Features
-List the main features of your project. Highlight key functionalities or aspects that make it useful.
 
-Feature 1: Description
-Feature 2: Description
+1) Loading Data:
+It loads historical price data from "orcl.csv" into a Python-readable format.
+
+2) Indicators Calculations:
+Simple Moving Averages (SMA): Computes the SMA for a 5-day window.
+Relative Strength Index (RSI): Calculates RSI using a basic formula.
+
+3) Writing Indicators:
+Saves SMA values to "orcl-sma.csv."
+Writes RSI values to "orcl-rsi.csv."
 
 ## License
-Include information about the project's license.
-
-This project is licensed under the [License Name] License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-Provide contact information or ways for users or contributors to reach out if they have questions, need support, or want to connect.
+Phone Number and WhatsApp: +90 (535) 822 07 73
+email: ahmedkhaledrassam.su@bahcesehir.edu.tr
