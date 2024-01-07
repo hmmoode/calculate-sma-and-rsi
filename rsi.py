@@ -1,5 +1,4 @@
-# Function to calculate Relative Strength Index (RSI) from historical data
-def calculate_rsi(data, window=14):
+def calculate_rsi(data, window=14): # Function to calculate Relative Strength Index (RSI) from historical data
     rsi = [] # Initialize an empty list to store RSI values
     for i in range(len(data)): # Iterate through the historical data
         if i < window:
